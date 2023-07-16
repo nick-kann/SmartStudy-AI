@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  display: flex;
+}
+
+.body {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+}
+
+.leftside {
+  overflow: scroll;
+  position: relative;
+  flex: 1;
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* float: left; */
+  left: -50vh;
+  top: 30vh;
+  width: 50%;
+  display : inline-block;
+}
+
+
+.rightside {
+  position: relative;
+  overflow: scroll;
+  flex: 1;
+  float: right;
+  right: 50vh;
+  top: 4vh;
+  width: 50%;
+  height: 100vh;
+  display : flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+

@@ -1,0 +1,71 @@
+
+input {
+  width: 100%;
+  height: 5vh;
+  border-radius: 9px;
+  background-color: #176B87;
+  border: none;
+  position: relative;
+  left: 0;
+  font-size: 6vh;
+  display: flex;
+}
+
+.HURR {
+  position: relative;
+  display: grid;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.notesMarkdown{
+  font-size: 25px;
+  position: relative;
+}
+
+h1{
+  top: 5vh;
+  display: block;
+}
+
+li{ 
+  text-align: left;
+  font-size : 25px;
+}
+
+.timestamplist{
+  flex: 1;
+  background:#333;
+  border-radius: 10px;
+  border-width: 5px ;
+  border-style: solid;
+  border-color: #fafafa;
+  display: inline;
+}
+
+.notePad{
+  flex: 1;
+  background:#fffecc;
+  color: black;
+  border-radius: 10px;
+  border-width: 5px ;
+  border-style: solid;
+  border-color: #64CCC5;
+  display: inline;
+}
+
+.timestampLink{
+  font-size:30px;
+  padding-bottom: 0px;
+  /* margin-bottom: 0px; */
+  color: #64CCC5;
+}
+.wikipediaLinks{
+   margin-top: 20px;
+  flex: -1;
+  /* display: block; */
+}
+.sitsOnTop{
+  display:flex;
+}

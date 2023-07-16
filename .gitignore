@@ -1,0 +1,13 @@
+api_keys/
+api_key.py
+.DS_Store
+*.pyc
+text_to_image/.DS_Store
+text_to_image/audio_files
+text_to_image/.DS_Store
+text_to_image/.DS_Store
+text_to_image/.DS_Store
+tvhacks-frontend/package-lock.json
+tvhacks-frontend/package.json
+*.png
+*.mp3
