@@ -1,6 +1,6 @@
 # SmartStudy AI
 
-SmartStudy AI is a web application developed for the CitroHacks 2023 hackathon. It aims to assist students in their online learning by providing various features such as automatic note generation from YouTube videos, video summarization, and the ability to generate slideshows from textbook images. The application also provides relevant Wikipedia links to facilitate further learning on the topics discussed in the video or textbook.
+SmartStudy AI is a web application developed for the [CitroHacks 2023 hackathon](https://citro-hacks-2023.devpost.com/). It aims to assist students in their online learning by providing various features such as automatic note generation from YouTube videos, video summarization, and the ability to generate slideshows from textbook images. The application also provides relevant Wikipedia links to facilitate further learning on the topics discussed in the video or textbook.
 
 ## Features
 
